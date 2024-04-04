@@ -1,5 +1,3 @@
-
-
 nota1 = float(input("Qual a sua nota da P1: "))
 nota2 = float(input("Qual a sua nota da P2: "))
 

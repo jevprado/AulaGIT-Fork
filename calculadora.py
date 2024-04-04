@@ -1,4 +1,4 @@
-# calculadora python de notas -> Teoria de eletronica digital 1 - Professor Renato
+
 
 nota1 = float(input("Qual a sua nota da P1: "))
 nota2 = float(input("Qual a sua nota da P2: "))
